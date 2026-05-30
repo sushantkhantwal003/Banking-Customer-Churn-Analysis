@@ -21,8 +21,6 @@ Support business decision-making through interactive dashboards.
 
 🛠️ Tools & Technologies Used
 
-Tool
-
 Power BI
 
 Power Query
