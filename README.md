@@ -1,10 +1,12 @@
 Banking Customer Churn Analysis Dashboard
 
-Project Overview
+Project Overview:
 This project analyzes customer churn behavior in a banking institution using Power BI. The objective is to identify factors contributing to customer attrition and provide actionable insights to improve customer retention.
 
-Business Problem
+
+Business Problem:
 Customer churn is one of the biggest challenges for banks. Acquiring a new customer is significantly more expensive than retaining an existing one.
+
 
 The goal of this project is to:
   Analyze customer demographics
@@ -12,12 +14,14 @@ The goal of this project is to:
   Understand factors influencing customer exits
   Support retention strategies through data-driven insights
 
-Tools Used
+
+Tools Used:
   Power BI
   Power Query
   DAX
   Excel / CSV Dataset
   Dataset Information
+
 
 The dataset contains information regarding:
   Customer ID
@@ -30,6 +34,7 @@ The dataset contains information regarding:
   Credit Card Ownership
   Activity Status
   Churn Status
+
 
 Dashboard KPIs
 
@@ -45,7 +50,8 @@ Active Customers
 Inactive Customers
 4,849
 
-Dashboard Features
+
+Dashboard Features:
 
   Customer Segmentation by Age
   Analyzes churn across different age groups.
@@ -60,7 +66,8 @@ Dashboard Features
   Credit Card Ownership
   Examines the relationship between churn and card ownership.
 
-Key Insights
+
+Key Insights:
 
   1. Customers aged 51-60 show the highest churn rate.
   This age segment requires targeted retention campaigns.
@@ -77,22 +84,24 @@ Key Insights
   5. Inactive customers show a higher tendency to leave the bank.
   Customer engagement initiatives should be prioritized.
 
-Business Recommendations
 
-  Customer Retention Program
+Business Recommendations:
+
+  Customer Retention Program:
     Develop loyalty programs for customers aged 50+.
   
-  Re-engagement Campaigns
+  Re-engagement Campaigns:
     Target inactive customers through personalized offers.
   
-  Cross-Selling Strategy
+  Cross-Selling Strategy:
     Encourage customers to adopt multiple banking products.
   
-  Country-Specific Strategy
+  Country-Specific Strategy:
     Conduct detailed churn analysis for German customers.
   
-  Predictive Churn Modeling
+  Predictive Churn Modeling:
     Implement machine learning models to identify at-risk customers before churn occurs.
 
-Project Outcome
+
+Project Outcome:
 The dashboard enables stakeholders to identify churn patterns, understand customer behavior, and implement data-driven retention strategies to reduce customer attrition.
