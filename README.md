@@ -38,32 +38,32 @@ The dataset contains information regarding:
 
 Dashboard KPIs
 
-Total Customers
+Total Customers - 
 10,000
 
-Churn Rate
+Churn Rate - 
 20.4%
 
-Active Customers
+Active Customers - 
 5,151
 
-Inactive Customers
+Inactive Customers - 
 4,849
 
 
 Dashboard Features:
 
-  Customer Segmentation by Age
+  Customer Segmentation by Age - 
   Analyzes churn across different age groups.
-  Credit Score Analysis
+  Credit Score Analysis - 
   Identifies churn patterns based on customer credit score ranges.
-  Product Usage Analysis
+  Product Usage Analysis - 
   Evaluates customer retention based on the number of banking products owned.
-  Country Analysis
+  Country Analysis - 
   Compares churn behavior among Germany, France, and Spain.
-  Gender Distribution
+  Gender Distribution - 
   Provides customer distribution by gender.
-  Credit Card Ownership
+  Credit Card Ownership - 
   Examines the relationship between churn and card ownership.
 
 
@@ -87,19 +87,19 @@ Key Insights:
 
 Business Recommendations:
 
-  Customer Retention Program:
+  Customer Retention Program - 
     Develop loyalty programs for customers aged 50+.
   
-  Re-engagement Campaigns:
+  Re-engagement Campaigns - 
     Target inactive customers through personalized offers.
   
-  Cross-Selling Strategy:
+  Cross-Selling Strategy - 
     Encourage customers to adopt multiple banking products.
   
-  Country-Specific Strategy:
+  Country-Specific Strategy - 
     Conduct detailed churn analysis for German customers.
   
-  Predictive Churn Modeling:
+  Predictive Churn Modeling - 
     Implement machine learning models to identify at-risk customers before churn occurs.
 
 
